@@ -7,7 +7,7 @@ Increasing Difficulty: The raindrops fall faster over time, increasing the chall
 Score Tracking: Keep track of how many drops you've caught.
 Audio Feedback: Enjoy the sound of rain and the satisfying splash of catching a raindrop.
 
-###How to Play
+### How to Play
 Start the Game: Tap anywhere on the screen to start the game.
 Move the Bucket: Use arrow keys or mouse to move the bucket.
 Catch Raindrops: Position the bucket under falling raindrops to catch them.
