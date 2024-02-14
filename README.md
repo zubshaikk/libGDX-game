@@ -27,12 +27,12 @@ Ensure you have Java JDK installed.
 
 Navigate to the project's root directory and build the project using Gradle.
 ```
-.\gradlew desktop:run
+.\gradlew.bat desktop:run
 ```
 Building from Source
 To build a runnable JAR file:
 ```
-.\gradlew desktop:dist
+.\gradlew.bat desktop:dist
 ```
 The JAR file will be located in desktop/build/libs/.
 
