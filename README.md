@@ -36,5 +36,10 @@ To build a runnable JAR file:
 ```
 The JAR file will be located in desktop/build/libs/.
 
+To run the JAR file:
+```
+java -jar desktop/build/libs/desktop-1.0.jar
+```
+
 ### Dependencies
 LibGDX - The game framework used.
