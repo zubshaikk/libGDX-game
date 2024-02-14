@@ -35,7 +35,7 @@ The JAR file will be located in desktop/build/libs/.
 ### Dependencies
 LibGDX - The game framework used.
 
-###Acknowledgments
+### Acknowledgments
 Thanks to the LibGDX community for the fantastic game development framework.
 Special thanks to:
 * [![Junggle](http://jazzy.junggle.net/)] for Water drop sound effect.
