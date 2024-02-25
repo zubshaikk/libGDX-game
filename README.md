@@ -4,8 +4,11 @@ This is a game based on [A Simple Game](https://libgdx.com/wiki/start/a-simple-g
 
 ## Features
 Simple Controls: Move the bucket left and right to catch falling raindrops.
+
 Increasing Difficulty: The raindrops fall faster over time, increasing the challenge.
+
 Score Tracking: Keep track of how many drops you've caught.
+
 Audio Feedback: Enjoy the sound of rain and the satisfying splash of catching a raindrop.
 
 ### How to Play
