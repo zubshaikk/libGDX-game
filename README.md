@@ -1,6 +1,6 @@
 
 # Drop Game
-This is a game based on [A Simple Game](https://libgdx.com/wiki/start/a-simple-game) with some changes. Drop is a simple yet engaging game built with the LibGDX framework. In this game, the player controls a bucket to catch falling raindrops. As the game progresses, raindrops fall with increasing speed, challenging the player to catch as many as possible. Miss too many, and it's game over!
+This is a game based on [this wiki(https://libgdx.com/wiki/start/a-simple-game) with some changes. Drop is a simple yet engaging game built with the LibGDX framework. In this game, the player controls a bucket to catch falling raindrops. As the game progresses, raindrops fall with increasing speed, challenging the player to catch as many as possible. Miss too many, and it's game over!
 
 ## Features
 Simple Controls: Move the bucket left and right to catch falling raindrops.
